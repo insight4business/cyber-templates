@@ -1,4 +1,4 @@
-# Insight 4 Business: Cyber Templates
+# Cyber Templates
 
 Practical, vendor-neutral templates for the nine processes we run in cybersecurity and cloud delivery. Each process is its own repository with practical, vendor-neutral procedures as code: scripts, queries, detection rules and infrastructure as code. Assessments, policy and playbook documents and the strategy for using them are shared with clients as part of an engagement and are not published here.
 
